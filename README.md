@@ -15,6 +15,10 @@
 
 ![Esquema](/escritorio.png)
 
+  - En la pàgina els usuaris podran comentar noticies.
+  
+  - Les noticies mes destacades o important apareixeran al bloc dret.
+  
 ## USUARIS:
 
   -Tindrem dos tipus de usuaris:
