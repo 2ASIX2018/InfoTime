@@ -1,13 +1,13 @@
 # InfoTime
 ## DESCRIPCIÓ.
-  Una página para compartir noticias mediante enlaces a otras paginas.
+  Una pàgina per a compartir noticies mitjançant enllaços a altres pàgines.
 
 ## DESENVOLUPADORS:
   - Frank Pardo Morales.
   - Angel Gomez Fuster.
   
 ## ESTRUCTURA
-  Per una part hem creat el DIAGRAMA DE CLASSES de la base de dades amb les taules necessaries per a la creació de la pàgina web.
+  Per una part hem creat el DIAGRAMA DE CLASSES de la BD amb les taules necessaries per a la creació de la pàgina web.
 
 ![Diagrama](/InfoTime.png)
 
