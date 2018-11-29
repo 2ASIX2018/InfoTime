@@ -1,0 +1,15 @@
+{
+  "name": "infotime",
+  "version": "1.0.0",
+  "description": "pagina compartir noticias",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
